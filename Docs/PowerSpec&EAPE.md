@@ -39,13 +39,13 @@ Power Spectrum
 
 - The difference in temperature power spectrum shows a clear signal that, when the moisture-radiation feedback is deactivated, the temperature variance over gravity-wave-mode disturbances is enhanced.
 
-![Temp_Power](/home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/temperature_power_comparison.png)
+![Temp_Power](https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/temperature_power_comparison.png)
 
 <p style="text-align: center;">
     Figure 1. Power spectrum of temperature perturbations at different experiments. The first, second, and third column represent the SBM RH as 60%, 70%, 80%, respectively. Figure (a)~(c), (g)~(i), and (m)~(o) represent original Byrne radiation, while Figure (d)~(f), (j)~(l), and (p)~(r) represents the locked radiation with fixed moisture profile for radiation
 </p>
 
-![Temp_Power_Compare]( /home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/temperature_log_power_difference.png
+![Temp_Power_Compare]( https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/temperature_log_power_difference.png
 )
 
 <p style="text-align: center;">
@@ -57,25 +57,25 @@ Growth Rate Analysis
 
 - The locked moisture-radiation feedback show enhanced first-mode growth rate in all conditions over most of the wave bands.
 
-![sigma1](/home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/sigma1_comparison.png)
+![sigma1](https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/sigma1_comparison.png)
 
 <p style="text-align: center;">
     Figure 3. Similar to Figure 1, but for EAPE growth rate of the first baroclinic mode.
 </p>
 
-![sigma1_difference](/home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/sigma1_locked_minus_original.png)
+![sigma1_difference](https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/sigma1_locked_minus_original.png)
 
 <p style="text-align: center;">
     Figure 4. Similar to Figure 2, but for EAPE growth rate of the first baroclinic mode.
 </p>
 
-![sigma2](/home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/sigma2_comparison.png)
+![sigma2](https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/sigma2_comparison.png)
 
 <p style="text-align: center;">
     Figure 5. Similar to Figure 1, but for EAPE growth rate of the second baroclinic mode.
 </p>
 
-![sigma2_difference](/home/b11209013/Isca_analysis/Figure/PowerSpec_EAPE/sigma2_locked_minus_original.png)
+![sigma2_difference](https://raw.githubusercontent.com/JosephKan828/Isca_Analysis/refs/heads/main/Figure/PowerSpec_EAPE/sigma2_locked_minus_original.png)
 
 <p style="text-align: center;">
     Figure 6. Similar to Figure 2, but for EAPE growth rate of the second baroclinic mode.
