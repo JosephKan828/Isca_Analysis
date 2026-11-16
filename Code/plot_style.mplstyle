@@ -1,0 +1,22 @@
+# Shared Matplotlib style for the composite figures.
+
+# Typography
+font.family: serif
+font.size: 14
+axes.labelsize: 14
+axes.titlesize: 16
+legend.fontsize: 12
+figure.titlesize: 18
+
+# Tick labels and direction
+xtick.labelsize: 12
+ytick.labelsize: 12
+xtick.direction: in
+ytick.direction: in
+
+# Filled contours
+image.cmap: RdBu_r
+
+# Figure export
+savefig.dpi: 300
+savefig.bbox: tight
